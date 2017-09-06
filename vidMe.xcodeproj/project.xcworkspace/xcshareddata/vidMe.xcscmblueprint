@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "084E4AFE3E441C1383FEC9A93A9E0D003CC1CB9D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "084E4AFE3E441C1383FEC9A93A9E0D003CC1CB9D" : 9223372036854775807,
+    "5AAEDA9F362BF17B0B99EE4E31E35792B5D67055" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "13A46CF8-A1AD-40AA-A46D-D28800C9FA24",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "084E4AFE3E441C1383FEC9A93A9E0D003CC1CB9D" : "",
+    "5AAEDA9F362BF17B0B99EE4E31E35792B5D67055" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "vidMe",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "vidMe.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/EugeneDudin\/vidMeHotVideo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "084E4AFE3E441C1383FEC9A93A9E0D003CC1CB9D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:EugeneDudin\/swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5AAEDA9F362BF17B0B99EE4E31E35792B5D67055"
+    }
+  ]
+}
